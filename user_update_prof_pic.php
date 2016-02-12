@@ -11,7 +11,7 @@ if($_SERVER['REQUEST_METHOD']=='POST'){
 		
 		$path = "images/profile_pics/$id.png";
 		
-		$actualpath = "http://jackyef.hol.es/YourVote_services/$path";
+		$actualpath = "http://yourvotejackyef.azurewebsites.net/$path";
 		
 		$sql = "UPDATE user SET 
 		`pic_abs_path` = '$actualpath' 
