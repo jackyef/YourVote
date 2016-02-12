@@ -1,0 +1,30 @@
+API link:
+jackyef.hol.es/YourVote_services/[nama script]
+
+Connect 
+
+Aspiration
+-Insert
+-Update
+-Delete
+-Get
+-Get_all
+-Get_By_User
+-Get_trending
+
+User
+-Insert
+-Update
+-Delete
+-Get
+-Get_all
+-login_auth
+
+Vote
+-check_if_voted
+-vote
+-unvote
+
+uploaded profile pics go to:
+http://jackyef.hol.es/YourVote_services/images/profile_pics/default_profile_pic.jpg
+http://jackyef.hol.es/YourVote_services/images/profile_pics/[user_id].jpg
